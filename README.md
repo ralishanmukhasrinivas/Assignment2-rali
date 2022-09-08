@@ -26,3 +26,10 @@ Tourist place table and time to visit.
 | new york | statue of liberty | 5 hr |
 | sydney | opera house | 5 hr |
 | egypt | pyramid | 2 days |
+
+
+***
+### Pithy Quotes
+> "Brevity is the soul of wit"- *W.shakespeare*
+
+> "All birds find shelter during a rain but eagles avoid rain by flying above clouds"-*A.P.J.Kalam*
