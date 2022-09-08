@@ -12,4 +12,6 @@
 5. Walk for 2 minutes towards the museum.
 * nearby places
 * Lord venkateswara temple
-* Sri venkateswara zoo park
+* Sri venkatewarara zoo park
+
+[About Me](AboutMe.md)
