@@ -15,3 +15,14 @@
 * Sri venkatewarara zoo park
 
 [About Me](AboutMe.md)
+
+***
+## Tables
+Tourist place table and time to visit.
+
+| City | Famous place | Time |
+|------|---------------|------------|
+| Hyderabad | Charminar | 2 hr|
+| Mysore | Mysore Palace | 3 hr |
+| Delhi | Red Fort | 3 hr |
+| Bangalore | Karnataka Assembly | 1 hr |
