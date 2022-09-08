@@ -33,3 +33,15 @@ Tourist place table and time to visit.
 > "Brevity is the soul of wit"- *W.shakespeare*
 
 > "All birds find shelter during a rain but eagles avoid rain by flying above clouds"-*A.P.J.Kalam*
+
+***
+### Code Fencing
+> Redirect from an HTML page?
+
+[Question](https://stackoverflow.com/questions/5411538/redirect-from-an-html-page)
+
+```
+<meta http-equiv="refresh" content="5;url=http://example.com/" />
+```
+
+[Code Snippet](https://css-tricks.com/snippets/html/meta-refresh/)
