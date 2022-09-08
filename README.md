@@ -14,4 +14,3 @@
 * Lord venkateswara temple
 * Sri venkatewarara zoo park
 
-[About Me](AboutMe.md)
